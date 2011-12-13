@@ -18,3 +18,16 @@ Rules:
 Plans:
   Sample database that is easily used and does not need to be installed
   HTML navigation with extra documentation
+
+
+
+
+Job entries / transformation steps requiring special considerations:
+  De-serialize from file:
+    Need more information on how to use this step
+
+  Email messages input:
+    Needs valid POP3/IMAP configurations
+
+  ESRI Shapefile Reader:
+    Need more information and sample files
