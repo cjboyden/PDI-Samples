@@ -49,7 +49,7 @@
     <feedback_shown>Y</feedback_shown>
     <feedback_size>50000</feedback_size>
     <using_thread_priorities>Y</using_thread_priorities>
-    <shared_objects_file>${Internal.Transformation.Filename.Directory}&#47;..&#47;..&#47;res&#47;shared.xml</shared_objects_file>
+    <shared_objects_file>.&#47;pdi-samples&#47;res&#47;shared.xml</shared_objects_file>
     <capture_step_performance>N</capture_step_performance>
     <step_performance_capturing_delay>1000</step_performance_capturing_delay>
     <step_performance_capturing_size_limit/>
