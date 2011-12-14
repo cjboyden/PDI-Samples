@@ -1,0 +1,73 @@
+﻿<bookstore-inventory>
+	<book id="1">
+		<title>Little Women</title>
+		<authors>
+			<author>Louisa May Alcott</author>
+		</authors>
+		<publications>
+			<publication>
+				<date>1868</date>
+				<publisher>Roberts Brothers</publisher>
+				<location>United States</location>
+				<language>English</language>
+			</publication>
+		</publications>
+	</book>
+	
+	<book id="2">
+		<title>Wuthering Heights</title>
+		<authors>
+			<author>Emily Brontë</author>
+		</authors>
+		<publications>
+			<publication>
+				<date>December 1847</date>
+				<publisher>Thomas Cautley Newby</publisher>
+				<location>United Kingdom</location>
+				<language>English</language>
+			</publication>
+			<publication>
+				<date>1994</date>
+				<publisher>Penguin</publisher>
+				<location>London</location>
+				<isbn>ISBN 9780140620122</isbn>
+			</publication>
+			<publication>
+				<date>1965</date>
+				<publisher>Penguin</publisher>
+				<location>Harmondsworth</location>
+				<isbn>ISBN 0140430016</isbn>
+			</publication>
+		</publications>
+	</book>
+	
+	<book id="3">
+		<title>A Christmas Carol</title>
+		<authors>
+			<author>Charles Dickens</author>
+		</authors>
+		<publications>
+			<publication>
+				<date>17 December 1843</date>
+				<publisher>Chapman &amp; Hall</publisher>
+				<location>England</location>
+				<language>English</language>
+			</publication>
+		</publications>
+	</book>
+	
+	<book id="4">
+		<title>Great Expectations</title>
+		<authors>
+			<author>Charles Dickens</author>
+		</authors>
+		<publications>
+			<publication>
+				<date>1861</date>
+				<publisher>Chapman &amp; Hall</publisher>
+				<location>United Kingdom</location>
+				<language>English</language>
+			</publication>
+		</publications>
+	</book>
+</bookstore-inventory>
