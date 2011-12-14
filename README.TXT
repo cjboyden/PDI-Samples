@@ -31,3 +31,6 @@ Job entries / transformation steps requiring special considerations:
 
   ESRI Shapefile Reader:
     Need more information and sample files
+
+  Get repository names:
+    Need to be connected to a repository for this to work
